@@ -12,5 +12,5 @@ Computer Engineering Student
 
 ## 📫 Contact
 - Email: panizd85@gmail.com
-- LinkedIn: linkedin.com/in/panizdamghani
+- LinkedIn: linkedin.com/in/paniz-damghani
 <!--
